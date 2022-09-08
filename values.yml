@@ -1,3 +1,3 @@
 myRepo:
-  gitProvider: testhello
+  gitProvider: guthub
   path: acjfrg/hellopipeline
