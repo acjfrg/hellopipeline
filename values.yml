@@ -1,0 +1,5 @@
+myRepo:
+  gitProvider: github
+  path: acjfrg/hellopipeline
+  branches:
+    include: master
