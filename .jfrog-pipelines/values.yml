@@ -1,5 +1,5 @@
 myRepo:
-  gitProvider: guthub
+  gitProvider: github
   path: acjfrg/hellopipeline
   branches:
     include: master
