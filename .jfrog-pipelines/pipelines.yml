@@ -92,4 +92,5 @@ pipelines:
           dockerFileName : Dockerfile
           dockerImageName : arm-image
           dockerImageTag : ${run_number}
-          
+        inputResources : 
+          - name : myFirstRepo
